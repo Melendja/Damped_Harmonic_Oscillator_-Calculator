@@ -1,0 +1,2 @@
+# Damped_Harmonic_Oscillator_-Calculator
+Damped Harmonic Oscillator Calculator
